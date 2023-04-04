@@ -1,0 +1,36 @@
+.nav {
+    padding: 5px;
+    color: #1e2939;
+    background-color: rgb(235, 235, 235);
+    text-align: center;
+    border-bottom: 5px solid white;
+}
+
+.nav__link {
+    font-family: "Syne", sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 2px 10px;
+    margin: 25px;
+    background-color: #1e2939;
+    color: white;
+    border: 4px outset white;
+    border-radius: 10px;
+    line-height: 2;
+}
+
+.nav__link:hover {
+    background-color: white;
+    color: #1e2939;
+    border: 4px inset white;
+    outline: none;
+}
+
+.nav__listItem {
+    display: inline-block;
+}
+
+.lightTheme {
+    background-color: rgb(235, 235, 235);
+    color: #1e2939;
+  }

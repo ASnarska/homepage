@@ -1,0 +1,30 @@
+.header {
+    background: #1e2939;
+    padding: 5px 20px 10px 20px;
+    border-radius: 20px 20px 0px 0px;
+    border-bottom: 5px solid white;
+
+}
+
+.header__mainHeader {
+    color: white;
+    font-family: "Syne", sans-serif;
+    font-size: 40px;
+    margin: 0px;
+    }
+
+.header__profession {
+    color: #fb6d3a;
+
+}
+
+.header__additionalText {
+    color: #d67652;
+    font-size: 12px;
+    margin: 0px;
+}
+
+.header__lightTheme {
+    background-color: rgb(235, 235, 235);
+    color: #1e2939;
+  }
